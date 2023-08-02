@@ -1,0 +1,212 @@
+/* 
+CSS template originally created and presented by Kraft (#738/#1105) edited by scilenci (#79146) then zero (#172661)
+You may edit and use this code for personal or commercial use.
+This comment must remain at the top in all cases - it will not be visible on final upload.
+*/
+  
+ 
+body {
+background: url("http://i.imgur.com/IYNmtgd.jpg") fixed;
+background-repeat: no-repeat;
+background-size: cover;
+color: #000;
+}
+ 
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+ 
+h1, h3 , .sidebar h3 {
+font-family: Shadows Into Light !important;
+text-align: left;
+color: #000;
+border-bottom: 1px solid #000;
+}
+ 
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: #475963;
+color: #000;
+border: 1px solid #000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+  
+  
+/* Links */
+  
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+}
+  
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+}
+  
+/* Topbar */
+  
+.topbar {
+background: rgb(71, 89, 99);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+ 
+.badge {
+background: rgb(71, 89, 99);
+border: 1px solid #000;
+}
+  
+/* Navigational Bar */
+  
+.main {
+background: rgba(71, 89, 99, 0.46);
+border: 1px solid #000;
+box-shadow: none;
+}
+  
+.navbar {
+background: #475963;
+border-bottom: 1px solid #000;
+color: #000;
+}
+  
+.navbar-default .navbar-nav > li > a {
+color: #000;
+}
+  
+.navbar-default .navbar-nav li a:hover {
+color: #000;
+background: #475963;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+} 
+  
+  
+  
+/* Sidebar */
+  
+.sidebar {
+background: rgba(71, 89, 99, 0.36);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000;
+}
+  
+.col-md-3 .panel {
+background: rgb(71, 89, 99);
+border: 1px solid #000;
+box-shadow: none;    
+}
+  
+.progress-bar {
+background: #D1A476;
+}
+  
+.progress {
+background: #E6D0AB;
+border: 1px solid #000;
+}
+  
+  
+/* Chat */
+  
+.chat_light, .chat_dark {
+background: rgb(71, 89, 99);
+font-size: 11px;
+color: #000;
+}
+ 
+.chatContainer {
+border: 1px solid #000;
+}
+  
+.userstolen {
+background: none;
+}
+ 
+.alert-danger {
+color: #000;
+background: rgb(71, 89, 99);
+border: 1px solid #000;
+}
+ 
+.alert-success {
+color: #000;
+background: rgb(71, 89, 99);
+border: 1px solid #000;
+}
+ 
+.breadcrumb {
+background:  #475963;
+font-size: 13px;
+border: 1px solid #000;
+}
+  
+.breadcrumb>.active {
+color: #000;
+}
+  
+h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000;
+}
+  
+.col-md-9 {
+background: none;
+border: 0px solid #000;
+}
+  
+/* Tables */
+  
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+}
+  
+.table, .item {
+border: 1px solid #000;
+background: #475963;
+border-collapse: separate;
+}
+ 
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+}
+ 
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: #D1A476;
+color: #000;
+}
+ 
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #D1A476;
+color: #000;
+}
+ 
+.table .left {
+border: 1px solid #000;
+background: #D1A476;
+color: #000;
+}
+ 
+.inner-table .right {
+background: #E6D0AB;
+border: 1px solid #000;
+border-left: none;
+}
+ 
+ 
+
+ 
+/* 
+CSS template originally created and presented by Kraft (#738/#1105)
+*/
